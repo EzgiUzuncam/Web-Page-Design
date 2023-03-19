@@ -1,14 +1,14 @@
-<h1>Web Page Design<h/1>
+<h1>Web Page Design</h1>
+  
+The content of the Web Page Design includes Logo Design, Menus, Search Box, Paragraph Section and Login Form. <br>
+  
+Added Social Media icons.  <br>
 
-Web Sayfasının içeriğinde Logo Tasarımı, Menüler, Arama Kutusu, Paragraf Bölümü ve Giriş Yapma Formu yapıldı.
+<h2>Languages Used for the Project</h2> 
 
-Sosyal Medya iconları eklendi.
-
-<h3>Languages Used for the Project</h3>
-
-Html and Css <br>
+Html and Css <br><br>
 
 <img src="WebPageDesign.gif">
 
 
-# Web-Page-Design
+
